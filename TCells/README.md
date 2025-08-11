@@ -61,6 +61,19 @@ based on colitis paper
 
 <img width="1257" height="1057" alt="image" src="https://github.com/user-attachments/assets/8e749339-766a-40bf-aa2e-5a77ee065dff" />
 
+T Cell Ex markers across all TCell Subtypes
+<img width="239" height="25" alt="image" src="https://github.com/user-attachments/assets/df6605a7-4131-42c7-b776-73523ec89055" />
+
+<img width="1375" height="754" alt="sdlkjnddasmd" src="https://github.com/user-attachments/assets/21e5b63b-91b8-4ef0-bd5a-3acd4d6e909c" />
+
+
+
+<img width="1254" height="1037" alt="sidjaskj" src="https://github.com/user-attachments/assets/d46e2bd0-3a79-41b7-92c8-dceb5e6c0ef6" />
+
+
+
+
+
 
 
 
