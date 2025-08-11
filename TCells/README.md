@@ -57,5 +57,11 @@
 based on colitis paper
 <img width="2520" height="1057" alt="askdnas;kjdnsa;kjfn" src="https://github.com/user-attachments/assets/79d2fed6-86cc-449d-9a8e-6f6bde5c1a62" />
 
+<img width="1257" height="1057" alt="image" src="https://github.com/user-attachments/assets/423f33d7-684e-4f7f-8a28-cbdb20da7ee2" />
+
+<img width="1257" height="1057" alt="image" src="https://github.com/user-attachments/assets/8e749339-766a-40bf-aa2e-5a77ee065dff" />
+
+
+
 
 
