@@ -12,26 +12,26 @@
   </a>
 </p>
 
-<!-- Row 2: Fig 2 + Fig 3 -->
+<!-- Row 2: Fig 2 + Fig 3 (framed) -->
 <p align="center">
   <a href="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e">
-    <img src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e" alt="Fig 2" width="45%">
+    <img src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e" alt="Fig 2" width="45%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
   </a>
   <a href="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006">
-    <img src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006" alt="Fig 3" width="45%">
+    <img src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006" alt="Fig 3" width="45%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
   </a>
 </p>
 
-<!-- Row 3: Tex + Treg + Fig 4 -->
+<!-- Row 3: Tex + Treg + Fig 4 (framed) -->
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27">
-    <img src="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27" alt="Tex score" width="30%">
+    <img src="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27" alt="Tex score" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
   </a>
   <a href="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107">
-    <img src="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107" alt="Treg score" width="30%">
+    <img src="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107" alt="Treg score" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
   </a>
   <a href="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9">
-    <img src="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9" alt="Fig 4" width="30%">
+    <img src="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9" alt="Fig 4" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
   </a>
 </p>
 
