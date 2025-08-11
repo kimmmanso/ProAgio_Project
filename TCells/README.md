@@ -12,15 +12,20 @@
   </a>
 </p>
 
-<!-- Row 2: Fig 2 + Fig 3 (framed) -->
+<!-- Row 2: Fig 2 + Fig 3 (framed with gap) -->
 <p align="center">
   <a href="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e">
-    <img src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e" alt="Fig 2" width="45%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
+    <img src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e" 
+         alt="Fig 2" width="45%" 
+         style="border:1px solid #ccc; border-radius:10px; padding:4px; margin-right:15px;">
   </a>
   <a href="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006">
-    <img src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006" alt="Fig 3" width="45%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
+    <img src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006" 
+         alt="Fig 3" width="45%" 
+         style="border:1px solid #ccc; border-radius:10px; padding:4px; margin-left:15px;">
   </a>
 </p>
+
 
 <!-- Row 3: Tex + Treg + Fig 4 (framed) -->
 <p align="center">
