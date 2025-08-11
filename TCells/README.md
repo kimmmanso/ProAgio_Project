@@ -46,3 +46,8 @@
     <img src="https://github.com/user-attachments/assets/dad051ce-04d8-4481-ac8b-268da4cf7bab" alt="Fig 5" width="50%">
   </a>
 </p>
+
+
+
+<img width="658" height="620" alt="asasasas" src="https://github.com/user-attachments/assets/881d6079-7230-4e2c-b10e-708248324f20" />
+
