@@ -13,5 +13,5 @@
 
 
 
-<img width="2500" height="1725" alt="image" src="https://github.com/user-attachments/assets/5fea4c2b-f0b8-40f7-9fd1-bc6cc898d5ae" />
+<img width="575" height="662" alt="BKJ" src="https://github.com/user-attachments/assets/88020c4e-9958-46a7-9814-d34ed6c72771" />
 
