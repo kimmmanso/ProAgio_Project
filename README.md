@@ -5,3 +5,7 @@
   
 </p>
 <img width="1800" height="1200" alt="CellType_Proportions_per_Treatment" src="https://github.com/user-attachments/assets/5d21b12d-d9eb-4110-a7cf-1d58920cc36a" />
+
+
+
+<img width="2500" height="1725" alt="image" src="https://github.com/user-attachments/assets/e0576ed9-395f-4892-a029-f1eaedc51ec2" />
