@@ -18,7 +18,6 @@
 <p align="center">
   <sub style="margin-right:150px;">UMAP of Myeloids (custom colors)</sub>
   <sub style="margin-right:120px;">Cell type proportions per treatment</sub>
-  <sub>BKJ panel</sub>
 </p>
 
 <!-- Row 2: Heatmap -->
