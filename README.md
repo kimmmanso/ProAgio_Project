@@ -27,5 +27,3 @@
          width="820" style="border:1px solid #eaecef;border-radius:12px;">
   </a>
   <br/>
-  <sub>Program–CellType heatmap</sub>
-</p>
