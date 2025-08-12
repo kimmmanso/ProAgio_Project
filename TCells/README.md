@@ -17,10 +17,10 @@
 
 <div class="hero">
   <h1>Primary Analysis of T-cell States</h1>
-  <p>UMAPs, marker panels, exhaustion/Treg scores, and supporting figures.</p>
+  <p>:large_blue_diamond:UMAPs, marker panels, exhaustion/Treg scores, and supporting figures.</p>
 </div>
 
-### Row 1 — Overview
+### Overview
 <div class="gallery row">
   <figure class="card">
     <a href="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
