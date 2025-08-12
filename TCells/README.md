@@ -21,21 +21,23 @@
 </div>
 
 ### Overview
-<div class="row" style="display:flex; gap:8px; justify-content:center; align-items:flex-start; flex-wrap:nowrap;">
-  <figure class="card" style="flex:1 1 0; max-width:600px; margin:0;">
+### Overview
+<div class="gallery row" style="grid-template-columns: repeat(2, minmax(300px, 1fr)); align-items:start; gap:12px;">
+  <figure class="card" style="margin:0;">
     <a href="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
       <img loading="lazy" decoding="async" alt="UMAP" src="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
     </a>
     <figcaption>UMAP — T cell landscape</figcaption>
   </figure>
 
-  <figure class="card" style="flex:1 1 0; max-width:600px; margin:0;">
+  <figure class="card" style="margin:0;">
     <a href="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d">
       <img loading="lazy" decoding="async" alt="Marker genes" src="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d">
     </a>
     <figcaption>Marker genes by subtype</figcaption>
   </figure>
 </div>
+
 
 ### Row 2 — Fig 2 + Fig 3
 <div class="gallery row">
