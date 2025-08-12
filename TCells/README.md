@@ -1,80 +1,139 @@
-## Results Gallery
+---
+layout: default
+title: Results Gallery
+---
 
-> Click any image to view full size.
+<style>
+/* simple, responsive cards */
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap: 16px; }
+.row { margin: 28px 0 8px; }
+.card { background: var(--card-bg, #fff); border: 1px solid #dfe2e5; border-radius: 12px; padding: 8px; }
+.card img { width: 100%; height: auto; display: block; border-radius: 8px; }
+.card figcaption { font-size: 12px; text-align: center; margin-top: 6px; color: #57606a; }
+.centerwide { display:flex; justify-content:center; }
+.hero { text-align:center; margin: 10px 0 24px; }
+@media (prefers-color-scheme: dark){
+  :root{ --card-bg:#0d1117; }
+  .card{ border-color:#30363d; }
+  .card figcaption{ color:#8b949e; }
+}
+details summary { cursor: pointer; font-weight: 600; margin: 8px 0 12px; }
+</style>
 
-<!-- Row 1: UMAP + Marker Genes -->
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
-    <img src="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e" alt="UMAP" width="45%">
-  </a>
-  <a href="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d">
-    <img src="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d" alt="Marker Genes" width="45%">
-  </a>
-</p>
+<div class="hero">
+  <h1>Signature T-cell States — Results Gallery</h1>
+  <p>UMAPs, marker panels, exhaustion/Treg scores, and supporting figures.</p>
+</div>
 
-<!-- Row 2: Fig 2 + Fig 3 (framed with gap) -->
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e">
-    <img src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e" 
-         alt="Fig 2" width="45%" 
-         style="border:1px solid #ccc; border-radius:10px; padding:4px; margin-right:15px;">
-  </a>
-  <a href="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006">
-    <img src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006" 
-         alt="Fig 3" width="45%" 
-         style="border:1px solid #ccc; border-radius:10px; padding:4px; margin-left:15px;">
-  </a>
-</p>
+### Row 1 — Overview
+<div class="gallery row">
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
+      <img loading="lazy" decoding="async" alt="UMAP" src="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
+    </a>
+    <figcaption>UMAP — T cell landscape</figcaption>
+  </figure>
 
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d">
+      <img loading="lazy" decoding="async" alt="Marker genes" src="https://github.com/user-attachments/assets/08f96436-6816-4f41-8ccd-253960beaf4d">
+    </a>
+    <figcaption>Marker genes by subtype</figcaption>
+  </figure>
+</div>
 
-<!-- Row 3: Tex + Treg + Fig 4 (framed) -->
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27">
-    <img src="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27" alt="Tex score" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
-  </a>
-  <a href="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107">
-    <img src="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107" alt="Treg score" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
-  </a>
-  <a href="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9">
-    <img src="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9" alt="Fig 4" width="30%" style="border:1px solid #ccc; border-radius:10px; padding:4px;">
-  </a>
-</p>
+### Row 2 — Fig 2 + Fig 3
+<div class="gallery row">
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e">
+      <img loading="lazy" decoding="async" alt="Fig 2" src="https://github.com/user-attachments/assets/b137d846-dff3-4225-95df-eade647db32e">
+    </a>
+    <figcaption>Fig 2</figcaption>
+  </figure>
 
-<!-- Row 4: Fig 5 -->
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/dad051ce-04d8-4481-ac8b-268da4cf7bab">
-    <img src="https://github.com/user-attachments/assets/dad051ce-04d8-4481-ac8b-268da4cf7bab" alt="Fig 5" width="50%">
-  </a>
-</p>
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006">
+      <img loading="lazy" decoding="async" alt="Fig 3" src="https://github.com/user-attachments/assets/2e11ddd0-60e2-43ca-9494-62a5cd78f006">
+    </a>
+    <figcaption>Fig 3</figcaption>
+  </figure>
+</div>
 
+### Row 3 — Tex + Treg + Fig 4
+<div class="gallery row">
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27">
+      <img loading="lazy" decoding="async" alt="Tex score" src="https://github.com/user-attachments/assets/6d4e1a4c-5aae-474a-8e68-b31f063e0a27">
+    </a>
+    <figcaption>CD8 Tex score by condition</figcaption>
+  </figure>
 
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107">
+      <img loading="lazy" decoding="async" alt="Treg score" src="https://github.com/user-attachments/assets/042e316f-8570-4ac1-b0f1-b1f5a7691107">
+    </a>
+    <figcaption>Treg score by condition</figcaption>
+  </figure>
 
-<img width="658" height="620" alt="asasasas" src="https://github.com/user-attachments/assets/881d6079-7230-4e2c-b10e-708248324f20" />
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9">
+      <img loading="lazy" decoding="async" alt="Fig 4" src="https://github.com/user-attachments/assets/895fe05e-fdd3-414e-8bde-532c98cbf3b9">
+    </a>
+    <figcaption>Fig 4</figcaption>
+  </figure>
+</div>
 
+### Row 4 — Fig 5
+<div class="centerwide row">
+  <figure class="card" style="max-width: 900px; width:100%;">
+    <a href="https://github.com/user-attachments/assets/dad051ce-04d8-4481-ac8b-268da4cf7bab">
+      <img loading="lazy" decoding="async" alt="Fig 5" src="https://github.com/user-attachments/assets/dad051ce-04d8-4481-ac8b-268da4cf7bab">
+    </a>
+    <figcaption>Fig 5</figcaption>
+  </figure>
+</div>
 
-<img width="2597" height="1298" alt="ProAgio project" src="https://github.com/user-attachments/assets/b31c0057-b4b7-4952-b58c-db3f88ed7f34" />
+---
 
-based on colitis paper
-<img width="2520" height="1057" alt="askdnas;kjdnsa;kjfn" src="https://github.com/user-attachments/assets/79d2fed6-86cc-449d-9a8e-6f6bde5c1a62" />
+## Supplementary / Based on Colitis paper
+<details>
+  <summary>Open supplementary figures</summary>
 
-<img width="1257" height="1057" alt="image" src="https://github.com/user-attachments/assets/423f33d7-684e-4f7f-8a28-cbdb20da7ee2" />
+<div class="gallery">
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/881d6079-7230-4e2c-b10e-708248324f20">
+      <img loading="lazy" alt="asasasas" src="https://github.com/user-attachments/assets/881d6079-7230-4e2c-b10e-708248324f20">
+    </a>
+    <figcaption>Heatmap (colitis reference)</figcaption>
+  </figure>
 
-<img width="1257" height="1057" alt="image" src="https://github.com/user-attachments/assets/8e749339-766a-40bf-aa2e-5a77ee065dff" />
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/b31c0057-b4b7-4952-b58c-db3f88ed7f34">
+      <img loading="lazy" alt="ProAgio project" src="https://github.com/user-attachments/assets/b31c0057-b4b7-4952-b58c-db3f88ed7f34">
+    </a>
+    <figcaption>ProAgio overview</figcaption>
+  </figure>
 
-T Cell Ex markers across all TCell Subtypes
-<img width="239" height="25" alt="image" src="https://github.com/user-attachments/assets/df6605a7-4131-42c7-b776-73523ec89055" />
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/79d2fed6-86cc-449d-9a8e-6f6bde5c1a62">
+      <img loading="lazy" alt="askdnas;kjdnsa;kjfn" src="https://github.com/user-attachments/assets/79d2fed6-86cc-449d-9a8e-6f6bde5c1a62">
+    </a>
+    <figcaption>Based on colitis paper</figcaption>
+  </figure>
 
-<img width="1375" height="754" alt="sdlkjnddasmd" src="https://github.com/user-attachments/assets/21e5b63b-91b8-4ef0-bd5a-3acd4d6e909c" />
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/423f33d7-684e-4f7f-8a28-cbdb20da7ee2">
+      <img loading="lazy" alt="panel 1" src="https://github.com/user-attachments/assets/423f33d7-684e-4f7f-8a28-cbdb20da7ee2">
+    </a>
+    <figcaption>Panel</figcaption>
+  </figure>
 
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/8e749339-766a-40bf-aa2e-5a77ee065dff">
+      <img loading="lazy" alt="panel 2" src="https://github.com/user-attachments/assets/8e749339-766a-40bf-aa2e-5a77ee065dff">
+    </a>
+    <figcaption>Panel</figcaption>
+  </figure>
 
-
-<img width="1254" height="1037" alt="sidjaskj" src="https://github.com/user-attachments/assets/d46e2bd0-3a79-41b7-92c8-dceb5e6c0ef6" />
-
-
-
-
-
-
-
-
-
+  <figure class="card">
+    <a href="https://github.com/user-attachments/assets/21e5b63
