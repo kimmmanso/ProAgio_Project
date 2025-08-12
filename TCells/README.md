@@ -1,8 +1,19 @@
----
-layout: default
-title: Results Gallery
----
+### Cell type counts
 
+| Cell type           | # Cells |
+|---------------------|-------:|
+| CD4_NaiveLike       |    128 |
+| CD8_EarlyActiv      |     26 |
+| CD8_EffectorMemory  |    130 |
+| CD8_NaiveLike       |    322 |
+| CD8_Tex             |   1,525 |
+| CD8_Tpex            |    116 |
+| Tfh                 |     36 |
+| Th1                 |    192 |
+| Treg                |    126 |
+| **Total**           | **2,601** |
+| **CD4 subtotal**    | **482** |
+| **CD8 subtotal**    | **2,119** |
 
 <div class="hero">
   <h1>Signature T-cell States — Results Gallery</h1>
