@@ -1,4 +1,4 @@
-<h1>T Cells Subtype Analysis</h1>### T Cells Subtype Analysis
+<h1>T Cells Subtype Analysis</h1>
 
 | Cell type           | # Cells |
 |---------------------|-------:|
