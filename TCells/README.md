@@ -21,13 +21,12 @@
 </div>
 
 ### Overview
-### Overview
 <div class="gallery row" style="grid-template-columns: repeat(2, minmax(300px, 1fr)); align-items:start; gap:12px;">
   <figure class="card" style="margin:0;">
     <a href="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
       <img loading="lazy" decoding="async" alt="UMAP" src="https://github.com/user-attachments/assets/f3a0eeeb-975a-409d-b278-9ef856a2be2e">
     </a>
-    <figcaption>UMAP — T cell landscape</figcaption>
+    <figcaption>UMAP — Marker Genes </figcaption>
   </figure>
 
   <figure class="card" style="margin:0;">
