@@ -3,22 +3,6 @@ layout: default
 title: Results Gallery
 ---
 
-<style>
-/* simple, responsive cards */
-.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap: 16px; }
-.row { margin: 28px 0 8px; }
-.card { background: var(--card-bg, #fff); border: 1px solid #dfe2e5; border-radius: 12px; padding: 8px; }
-.card img { width: 100%; height: auto; display: block; border-radius: 8px; }
-.card figcaption { font-size: 12px; text-align: center; margin-top: 6px; color: #57606a; }
-.centerwide { display:flex; justify-content:center; }
-.hero { text-align:center; margin: 10px 0 24px; }
-@media (prefers-color-scheme: dark){
-  :root{ --card-bg:#0d1117; }
-  .card{ border-color:#30363d; }
-  .card figcaption{ color:#8b949e; }
-}
-details summary { cursor: pointer; font-weight: 600; margin: 8px 0 12px; }
-</style>
 
 <div class="hero">
   <h1>Signature T-cell States — Results Gallery</h1>
