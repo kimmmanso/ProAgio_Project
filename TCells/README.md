@@ -1,4 +1,4 @@
-### Cell type counts
+### T Cells Subtype Analysis
 
 | Cell type           | # Cells |
 |---------------------|-------:|
