@@ -16,7 +16,7 @@
 | **CD8 subtotal**    | **2,119** |
 
 <div class="hero">
-  <h1>Signature T-cell States — Results Gallery</h1>
+  <h1>Primary Analysis of T-cell States</h1>
   <p>UMAPs, marker panels, exhaustion/Treg scores, and supporting figures.</p>
 </div>
 
